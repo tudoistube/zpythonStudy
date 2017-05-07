@@ -1,12 +1,11 @@
-zpythonStudy  
+# zeveryone
 ===================================================================
 
-## Branch Description  
-
-### zeveryone ['모두의 파이썬' 책 보고 실습한 소스](http://www.yes24.com/24/goods/26876433?scode=032&OzSrank=1 "이승찬 저, 모두의 파이썬" )  
+## Python Basic study practice ('모두의 파이썬' 책 보고 실습한 소스)  
 
  ![Everyone's Python](http://image.yes24.com/momo/TopCate0001/kepub/M_487099.jpg)  
 
+### Practised sources from a book ['모두의 파이썬' 책 보고 실습한 소스](http://www.yes24.com/24/goods/26876433?scode=032&OzSrank=1 "이승찬 저, 모두의 파이썬" )  
     
 책 보면서 실습한 소스임.  
 공부하면서 올리는 것이어서 틀린 부분이 있을수도 있음(알려주시면 반영하겠음)  
