@@ -1,11 +1,9 @@
-# zeveryone
+# zbasic
 ===================================================================
 
-## Python Basic study practice ('모두의 파이썬' 책 보고 실습한 소스)  
+## Python Basic study practice  
 
- ![Everyone's Python](http://image.yes24.com/momo/TopCate0001/kepub/M_487099.jpg)  
-
-### Practised sources from a book ['모두의 파이썬' 책 보고 실습한 소스](http://www.yes24.com/24/goods/26876433?scode=032&OzSrank=1 "이승찬 저, 모두의 파이썬" )  
+### Practised sources from a lesson [파이썬 일반인 대상 3월달 주말 수업 안내 at 소프트웨어 놀이터](http://cafe.naver.com/gubass/4408)    
     
 책 보면서 실습한 소스임.  
 공부하면서 올리는 것이어서 틀린 부분이 있을수도 있음(알려주시면 반영하겠음)  
