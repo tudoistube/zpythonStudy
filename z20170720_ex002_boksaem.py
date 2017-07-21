@@ -78,7 +78,7 @@ print(li.index('e'))
 #in : 존재여부 확인하기.
 print('a' in li) #Ture : 존재함.
 print('s' in li) #False : 존재하지 않음.
-
+'''
 
 li=[1,2,1,1,2,3,2,1,1]
 #...37p.특정값 갯수 세기.
@@ -113,7 +113,7 @@ print(li2)
 li[0] = 'changed' #같은 주소값이므로 li, li2 모두 바뀜.
 print(li)
 print(li2)
-'''
+
 zorigin=['a','b','c','d','e','f']
 b = zorigin.copy() #복사해서 생성하기 : 방법1.copy().
 c = list(zorigin) #방법2.list()
