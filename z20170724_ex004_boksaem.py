@@ -52,5 +52,5 @@ print(li)
 """
 
 #...나이가 20대인 새로운 리스트를 만들기.
-li2=[i for i in li if i['나이']>20 and i['나이']<30]
+li2=[i for i in li if (i['나이']>20 and i['나이']<30)]
 print(li2)
