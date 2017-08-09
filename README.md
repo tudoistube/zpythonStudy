@@ -7,6 +7,13 @@ zpythonStudy
 
  ![Everyone's Python](http://image.yes24.com/momo/TopCate0001/kepub/M_487099.jpg)  
 
+### zbasic [파이썬 일반인 대상 3월달 주말 수업 안내 at 소프트웨어 놀이터](http://cafe.naver.com/gubass/4408)    
+
+### zcodingMaster [코딩강사마스터과정 at 소프트웨어 놀이터](http://cafe.naver.com/gubass/8209)    
+
+### zbasicMore [대구 파이썬 중급과정 8월 개강 at 소프트웨어 놀이터](http://cafe.naver.com/gubass/8881)    
+    
+
     
 책 보면서 실습한 소스임.  
 공부하면서 올리는 것이어서 틀린 부분이 있을수도 있음(알려주시면 반영하겠음)  
