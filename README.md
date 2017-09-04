@@ -1,12 +1,11 @@
-# zeveryone
+# ztry
 ===================================================================
-
-## Python Basic study practice ('모두의 파이썬' 책 보고 실습한 소스)  
-
- ![Everyone's Python](http://image.yes24.com/momo/TopCate0001/kepub/M_487099.jpg)  
-
-### Practised sources from a book ['모두의 파이썬' 책 보고 실습한 소스](http://www.yes24.com/24/goods/26876433?scode=032&OzSrank=1 "이승찬 저, 모두의 파이썬" )  
     
+### ztry ['Try! helloworld 파이썬 하루 15분, 누구나 프로그래밍을 할 수 있다!' 책 보고 실습한 소스 및 Summary](https://drive.google.com/open?id=1saXPWaHAtDwcsCOrQBB29CSbWYLJdUDiMYR1aPBXuZw "정윤원, 정두식 공저, Try! helloworld 파이썬" )  
+
+ ![ztryPython](http://image.yes24.com/momo/TopCate1067/MidCate010/106698853.jpg)  
+
+ 
 책 보면서 실습한 소스임.  
 공부하면서 올리는 것이어서 틀린 부분이 있을수도 있음(알려주시면 반영하겠음)  
 정확한 내용은 위의 저자의 링크를 참조하시기 바람.  
