@@ -13,6 +13,9 @@ zpythonStudy
 
 ### zbasicMore [대구 파이썬 중급과정 8월 개강 at 소프트웨어 놀이터](http://cafe.naver.com/gubass/8881)    
     
+### ztry ['Try! helloworld 파이썬 하루 15분, 누구나 프로그래밍을 할 수 있다!' 책 보고 실습한 소스 및 Summary](https://drive.google.com/open?id=1saXPWaHAtDwcsCOrQBB29CSbWYLJdUDiMYR1aPBXuZw "정윤원, 정두식 공저, Try! helloworld 파이썬" )  
+
+ ![ztryPython](http://image.yes24.com/momo/TopCate1067/MidCate010/106698853.jpg)  
 
     
 책 보면서 실습한 소스임.  
