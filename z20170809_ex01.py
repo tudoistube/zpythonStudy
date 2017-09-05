@@ -1,3 +1,4 @@
+#...문자열.
 s = 'Hi, YouGoGirl'
 s1 = '~'.join(s)
 print(s1) #H~i~,~ ~Y~o~u~G~o~G~i~r~l
