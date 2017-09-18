@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+list page...<br/>
+<ul>
+    <li>제목 | 저자 | 날짜</li>
+    {% for article in articleList %}
+        {% comment %}
+            {{article.cdate|date:"D d M Y"}} 에서
+            |date:"D d M Y" 는 cdate 를 표현하는 포맷임.
+        {% endcomment %}
+    <li><a href="/view/{{article.id}}">{{article.title}}</a> | {{article.name}} | {{article.cdate|date:"D d M Y"}}</li>
+    {% endfor %}
+</ul>
+
+</body>
+</html>

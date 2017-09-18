@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!--...work1.글쓰기 페이지 열기.
+    hi, Django^^!
+    It's JoyWins^_____^!!!
+-->
+    <form action="" method="post">
+        {% comment %}
+            {{ form.as_table }} table 태그로 생성되는 폼.
+            {{ form.as_p }} p 태그로 생성되는 폼.
+            {{ form.as_ul }} ul 태그로 생성되는 폼.
+        {% endcomment %}
+        {{ form.as_p }}
+        {% comment %}
+            csrf 인증을 위한 토큰을 생성해서 전달해야 정상 처리됨.
+        {% endcomment %}
+        {% csrf_token %}
+        <button type="submit"
+                class="btn btn-primary">저장</button>
+    </form>
+
+</body>
+</html>
