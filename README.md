@@ -7,11 +7,11 @@ zpythonStudy
 
  ![Everyone's Python](http://image.yes24.com/momo/TopCate0001/kepub/M_487099.jpg)  
 
-### zbasic [파이썬 일반인 대상 3월달 주말 수업 안내 at 소프트웨어 놀이터](http://cafe.naver.com/gubass/4408)    
+### zbasic [파이썬 일반인 대상 주말 수업]
 
-### zcodingMaster [코딩강사마스터과정 at 소프트웨어 놀이터](http://cafe.naver.com/gubass/8209)    
+### zcodingMaster [코딩강사마스터과정]
 
-### zbasicMore [대구 파이썬 중급과정 8월 개강 at 소프트웨어 놀이터](http://cafe.naver.com/gubass/8881)    
+### zbasicMore [파이썬 중급과정]
    
 
  ![ztryPython](http://image.yes24.com/momo/TopCate1067/MidCate010/106698853.jpg)  
